@@ -129,5 +129,4 @@ dmypy.json
 .pyre/
 
 # Debug
-.idea/
-__pycache__/*
+.idea/*
