@@ -1,4 +1,4 @@
 # DroneSwarmSimulation
 Simulation of drone swarm
 
-![](results/sim.gif)
+![](results/sim.gif?style=centerme)
